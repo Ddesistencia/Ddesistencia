@@ -4,6 +4,11 @@ I really like animes, so my projects have a tendency to go to this stuffs.
 
 This is a second account too, is my "training room" my primary with the big one's is @Hzera
 
+Kiwotsukete
+
+あなたは今休むことができないかもしれません、近くにモンスターがいます
+
+"You may not rest now, there are monsters nearby"
 
 <!---
 Ddesistencia/Ddesistencia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
