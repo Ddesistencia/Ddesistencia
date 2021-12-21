@@ -10,7 +10,7 @@ Kiwotsukete
 
 "You may not rest now, there are monsters nearby"
 
-## “I am not what happened to me, I am what I choose to become.”
+##### “I am not what happened to me, I am what I choose to become.”
 ― Carl Gustav Jung
 
 <!---
