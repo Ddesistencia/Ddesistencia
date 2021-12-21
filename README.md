@@ -10,6 +10,9 @@ Kiwotsukete
 
 "You may not rest now, there are monsters nearby"
 
+## “I am not what happened to me, I am what I choose to become.”
+― Carl Gustav Jung
+
 <!---
 Ddesistencia/Ddesistencia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
