@@ -13,7 +13,7 @@ Kiwotsukete
 ##### “I am not what happened to me, I am what I choose to become.”
 ― Carl Gustav Jung
 
-<!---
-Ddesistencia/Ddesistencia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="https://github.com/Ddesistencia">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ddesistencia&show_icons=true&hide=prs&include_all_commits=true&count_private=true&theme=omni"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ddesistencia&layout=compact&langs_count=16&theme=omni"/>
