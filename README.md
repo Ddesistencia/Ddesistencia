@@ -4,12 +4,6 @@ I really like animes, so my projects have a tendency to go to this stuffs.
 
 This is a second account too, is my "training room" my primary supposed to be @Hzera, but this seems like me main account now...
 
-Kiwotsukete
-
-あなたは今休むことができないかもしれません、近くにモンスターがいます
-
-"You may not rest now, there are monsters nearby"
-
 ##### “I am not what happened to me, I am what I choose to become.”
 ― Carl Gustav Jung
 
