@@ -1,11 +1,11 @@
-こんにちは, I’m @Ddesistencia
-Currently learning programming languages like python, c#, css, js and react. Also Japanese too.
-I really like animes, so my projects have a tendency to go to this stuffs.
+Привет, I’m @Ddesistencia
+Currently learning programming languages like Python, C++ and JS. Also the Russian Language too.
 
-This is a second account too, is my "training room" my primary supposed to be @Hzera, but this seems like me main account now...
+This is a secondary account, is my "training room" my primary supposed to be @mtHohmann, but I really like putting stuff here, somehow this seems like me main account now...
 
-##### “I am not what happened to me, I am what I choose to become.”
-― Carl Gustav Jung
+>“I am not what happened to me, I am what I choose to become.”
+>― Carl Gustav Jung
+---	
 
 <div>
   <a href="https://github.com/Ddesistencia">
